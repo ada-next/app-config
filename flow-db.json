@@ -4,7 +4,6 @@
   "password": "password",
   "database": "ada-next",
   "charset": "utf8",
-  "acquireTimeout": 10000,
   "waitForConnections": true,
   "connectionLimit": 10,
   "queueLimit": 0
