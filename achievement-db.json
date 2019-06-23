@@ -1,0 +1,11 @@
+{
+    "host": "192.168.3.46",
+    "user": "root",
+    "password": "password",
+    "database": "ada-achievement",
+    "charset": "utf8",
+    "waitForConnections": true,
+    "connectionLimit": 10,
+    "queueLimit": 0
+  }
+  
